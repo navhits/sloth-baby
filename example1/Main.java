@@ -17,8 +17,8 @@ public class Main {
         /* Is it possible to identify the value "dont_tell_anyone" wherever 
             it gets assigned and where it undergoes some mutation? */
         
-        secrets.storeSecret();
+        secrets.storeSecret(secret);
         String value = secrets.getSecret();
-        System.out.println(secrets.unsaltSecret(value));
+        String unsaltedSecret = secrets.unsaltSecret(value);
     }
 }
