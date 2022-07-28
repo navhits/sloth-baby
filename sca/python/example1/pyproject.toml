@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "example1"
+version = "0.1.0"
+description = ""
+authors = ["Naveen S <dev@navs.page>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+python-ldap = "^3.3.1"
+django = {git = "https://github.com/django/django.git", rev = "9736596bce4f711ccf2914284938d85748838c94"}
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.1.2"
+"rpc.py" = "^0.5.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

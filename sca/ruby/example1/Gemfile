@@ -1,0 +1,9 @@
+source 'https://rubygems.org'
+
+
+gem 'hello-world-rubygems', :git => 'https://github.com/n13org/hello-world-rubygems.git', branch: 'master'
+gem 'faker', '1.9.6'
+gem 'http-form_data'
+gem 'ember-rails', '0.20.0'
+gem 'yaml_extend'
+gem 'jwt', '1.5.6'
