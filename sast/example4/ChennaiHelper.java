@@ -1,6 +1,4 @@
-package com.naveen.example4;
-
-import Country;
+package sast.example4;
 
 public class ChennaiHelper {
     private Chennai city;

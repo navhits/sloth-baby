@@ -1,5 +1,4 @@
-package com.naveen.example2;
-
+package sast.example2;
 
 public class Car {
     private final int wheels = 4;

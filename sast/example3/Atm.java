@@ -1,6 +1,4 @@
-package com.naveen.example3;
-
-import Bank;
+package sast.example3;
 
 public class Atm extends Bank {
     private int balance = 3000;

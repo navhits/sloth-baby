@@ -1,4 +1,4 @@
-package com.naveen.example3;
+package sast.example3;
 
 public class Bank {
      private static int balance = 5000;

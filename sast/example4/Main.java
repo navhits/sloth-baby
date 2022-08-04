@@ -1,9 +1,4 @@
-package com.naveen.example3;
-
-import India;
-import TamilNadu;
-import Chennai;
-import ChennaiHelper;
+package sast.example4;
 
 
 // Match calling of India.country() in all inherited classes and dependency class 

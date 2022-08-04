@@ -1,4 +1,4 @@
-package com.naveen.example4;
+package sast.example4;
 
 public class Country {
 }

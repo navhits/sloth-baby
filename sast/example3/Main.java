@@ -1,6 +1,4 @@
-package com.naveen.example3;
-
-import Wallet;
+package sast.example3;
 
 
 // Match calling of Bank.getBalance() from inherited classes as well

@@ -1,6 +1,4 @@
-package com.naveen.example4;
-
-import India;
+package sast.example4;
 
 public class TamilNadu extends India {
     private static String name = "TamilNadu";

@@ -1,6 +1,4 @@
-package com.naveen.example1;
-
-import Secrets;
+package sast.example1;
 
 public class Main {
     public static void main(String[] args) {

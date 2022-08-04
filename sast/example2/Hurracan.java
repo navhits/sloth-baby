@@ -1,6 +1,4 @@
-package com.naveen.example2;
-
-import Lamborghini;
+package sast.example2;
 
 public class Hurracan extends Lamborghini {
     public Hurracan() {

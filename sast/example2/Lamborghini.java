@@ -1,6 +1,4 @@
-package com.naveen.example2;
-
-import Car;
+package sast.example2;
 
 public class Lamborghini extends Car {
     public Lamborghini() {

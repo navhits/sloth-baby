@@ -1,8 +1,4 @@
-package com.naveen.example2;
-
-import Lamborghini;
-import Hurracan;
-import Car;
+package sast.example2;
 
 // Multi level inheritance
 // Rule should match pattern of any variable of int type with value as 4 that originally is in Car class
@@ -20,7 +16,7 @@ public class Main {
         car1.setSeats(4);
         car1.setColor("red");
         System.out.println(car1.getFeatures());
-        Car car2 = new Hurracan();
+        Hurracan car2 = new Hurracan();
         int wheelsInHurracan = car2.getWheels();
         System.out.println(car2.brand + " has " + wheelsInHurracan + " wheels");
         car2.setSeats(2);
