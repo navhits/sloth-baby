@@ -4,3 +4,5 @@ A repository with code patterns to be used to test DeepSemgrep & SCA detection c
 These examples are not written with any design patterns in mind and is just bare minimum working code.
 
 Note: The repo name has nothing to do with the code examples ;)
+
+Hello world!
